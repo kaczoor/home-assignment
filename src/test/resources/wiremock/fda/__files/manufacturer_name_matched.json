@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2021-07-27",
+    "results": {
+      "skip": 0,
+      "limit": 2,
+      "total": 196
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200929",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "65093",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/203007Orig1s000ltr.pdf",
+              "date": "20201030",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA203007",
+      "sponsor_name": "NATCO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA203007"
+        ],
+        "brand_name": [
+          "LAPATINIB"
+        ],
+        "generic_name": [
+          "LAPATINIB"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-801"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LAPATINIB DITOSYLATE"
+        ],
+        "rxcui": [
+          "672149"
+        ],
+        "spl_id": [
+          "50d0dd0c-7682-43d0-aa1b-ca26e9181aee"
+        ],
+        "spl_set_id": [
+          "50d0dd0c-7682-43d0-aa1b-ca26e9181aee"
+        ],
+        "package_ndc": [
+          "68180-801-36"
+        ],
+        "unii": [
+          "G873GX646R"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LAPATINIB DITOSYLATE",
+          "active_ingredients": [
+            {
+              "name": "LAPATINIB DITOSYLATE",
+              "strength": "EQ 250MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200818",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130729",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "32080",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/201046Orig1s000ltr.pdf",
+              "date": "20130731",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA201046",
+      "sponsor_name": "LUPIN LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA201046"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-354",
+          "68180-355"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "8b6a8647-5561-49f8-a346-2f5af75a6162"
+        ],
+        "spl_set_id": [
+          "595821d7-1fbf-49a5-9c62-d78f27af39b4"
+        ],
+        "package_ndc": [
+          "68180-354-07",
+          "68180-354-02",
+          "68180-355-07",
+          "68180-355-02"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}
