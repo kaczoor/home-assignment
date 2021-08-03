@@ -17,7 +17,7 @@ Docker, Java 11
 ./mvnw clean install
 ```
 
-##How to run application locally
+## How to run application locally
 ```
 docker run -d -p 27017:27017 mongo
 ```
@@ -25,12 +25,12 @@ docker run -d -p 27017:27017 mongo
 ./mvnw spring-boot:run -Dspring-boot.run.profiles=local
 ```
 
-##Swagger
+## Swagger
 ```
 http://localhost:8080/swagger-ui/
 ```
 
-##Production
+## Production
 1. Build application
 2. Copy home-assignment-1.0.0-SNAPSHOT.jar to server (Linux)
 3. Create file application-prod.yml in dir where home-assignment-1.0.0-SNAPSHOT.jar is
@@ -49,4 +49,5 @@ spring:
 java -jar -Dspring.profiles.active=prod home-assignment-1.0.0-SNAPSHOT.jar
 ```
 It should be run as a service. More details you can find on https://dzone.com/articles/run-your-java-application-as-a-service-on-ubuntu
+
 6. Application logs are located in logs dir. Log configuration is in logback-spring.xml file
